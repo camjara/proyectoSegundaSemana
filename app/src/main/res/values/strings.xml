@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SemanaDosApp</string>
+    <string name="envio_datos">DATOS</string>
+    <string name="titulo">Confirmar Datos</string>
+</resources>
